@@ -1,13 +1,3 @@
----
-title: "Serving Static Content using CloudFront & S3"
-slug: cloudfront-s3-static-hosting date: 2021-04-08 language: en tags:
-
-- CloudFront
-- S3
-- Route 53
-
----
-
 ![cloudfront s3 static hosting](./cloudfront-s3-static-hosting.png)
 
 My goto serverless stack for super speed to production web applications, and RESTful APis, is CloudFront, S3, API
